@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">On Call Timeout Test</string>
+    <string name="call_function">CALL FUNCTION</string>
+    <string name="not_called">Not Called</string>
+    <string name="default_milli">11000</string>
+    <string name="milliseconds_110000">Milliseconds: 110000</string>
+    <string name="logging_in">Logging in...</string>
+</resources>
